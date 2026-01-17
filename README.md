@@ -87,7 +87,7 @@ YTDGO-GUI 是一款基于 Wails v2 和 LitElement (TypeScript) 开发的跨平�
 
 ```
 # 克隆仓库 ()
-git clone https://github.com/
+git clone https://github.com/legiorange/YTD-GO-GUI
 
 cd YTDGO-GUI
 
