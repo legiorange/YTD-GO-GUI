@@ -12,3 +12,4 @@ node_modules
 frontend/dist
 ytd.db
 yt-dlp.exe
+ytd-go-gui.exe
