@@ -1,7 +1,14 @@
 # YTDGO-GUI: 高性能Youtube视频下载器
 
 ## About
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Wails-v2-blue?style=flat-square&logo=go" alt="Wails">
+  <img src="https://img.shields.io/badge/Frontend-Lit--Element-orange?style=flat-square&logo=lit" alt="Frontend">
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=flat-square&logo=go" alt="Go">
+  <img src="https://img.shields.io/badge/Engine-yt--dlp-red?style=flat-square" alt="yt-dlp">
+  <img src="https://img.shields.io/badge/License-AGPL3-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square" alt="Platform">
+</p>
 YTDGO-GUI 是一款基于 Wails v2 和 LitElement (TypeScript) 开发的跨平台桌面视频下载工具。它集成了 yt-dlp，旨在为用户提供直观的GUI，这是个用来学习Lit的项目。
 ![](image/image.png)
 
