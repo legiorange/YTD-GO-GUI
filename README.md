@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square" alt="Platform">
 </p>
 YTDGO-GUI 是一款基于 Wails v2 和 LitElement (TypeScript) 开发的跨平台桌面视频下载工具。它集成了 yt-dlp，旨在为用户提供直观的GUI，这是个用来学习Lit的项目。
+
 ![](image/image.png)
 
 >请下载 yt-dlp 到该同一目录下。
