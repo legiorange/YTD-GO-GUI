@@ -24,6 +24,7 @@ export class YtdApp extends LitElement {
             --accent: #d93025; --sidebar-active: #fce8e6;
             display: flex; height: 100vh; width: 100vw; font-family: system-ui, sans-serif;
             background: var(--bg-main); color: var(--text-main); transition: background 0.2s;
+            overflow: hidden;
         }
         :host([theme="dark"]) {
             --bg-main: #18191a; --bg-card: #242526; --bg-input: #3a3b3c;
@@ -31,7 +32,7 @@ export class YtdApp extends LitElement {
             --sidebar-active: #3c1e1e;
         }
 
-        .sidebar { width: 240px; background: var(--bg-card); border-right: 1px solid var(--border); display: flex; flex-direction: column; padding: 20px 0; }
+        .sidebar { width: 220px; background: var(--bg-card); border-right: 1px solid var(--border); display: flex; flex-direction: column; padding: 20px 0; }
         .nav-item { 
             padding: 12px 24px; cursor: pointer; display: flex; align-items: center; justify-content: space-between;
             color: var(--text-main); font-weight: 500; transition: 0.2s; 
