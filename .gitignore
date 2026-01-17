@@ -1,0 +1,14 @@
+#wails
+build/bin
+build/windows/
+build/darwin/
+build/linux/
+
+# Go
+vendor/
+go.sum
+
+node_modules
+frontend/dist
+ytd.db
+yt-dlp.exe
